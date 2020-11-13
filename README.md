@@ -11,6 +11,6 @@
   * 🚵‍♂️ Mountain Biking
   * 🎲 Settlers of Catan
 - 📫 How to reach me: 
-  * [gmail](mailto:jpcarey4@gmail.com?)
+  * [Email](mailto:jpcarey4@gmail.com?)
   * [LinkedIn](https://www.linkedin.com/in/jpcareyiv/)
 - 💬 Ask me about specific applications I've made at Turing!
