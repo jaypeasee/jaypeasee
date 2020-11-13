@@ -5,9 +5,9 @@
 - 🔭 I’m currently in a fully immersive program at [The Turing School of Software and Design](https://frontend.turing.io/) and poised to graduate in March of 2021.
 - 🌱 My studies are focused in `React`, `JavaScript`, `Node JS`, and `SCSS`.
 - 🧳 My Background:
-  * conversion rate optimization
-  * account management
-  * manual testing/quality assurance
+  * 📈 conversion rate optimization
+  * 🤝 account management
+  * 🔎 manual testing/quality assurance
 - ⚡ What I do:
   * 🛶 Whitewater kayaking, canoeing, and rafting
   * 🚠 Skiing
