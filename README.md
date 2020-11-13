@@ -5,14 +5,14 @@
 - 🔭 I’m currently in a fully immersive program at [The Turing School of Software and Design](https://frontend.turing.io/) and poised to graduate in March of 2021.
 - 🌱 My studies are focused in `React`, `JavaScript`, `Node JS`, and `SCSS`.
 - 🧳 My Background:
-  * 📈 digital strategy
-  * 🤝 account management
-  * 🔎 manual testing/quality assurance
+  * digital strategy 📈
+  * account management 🤝
+  * manual testing/quality assurance 🔎
 - ⚡ What I do:
-  * 🛶 Whitewater kayaking, canoeing, and rafting
-  * 🚠 Skiing
-  * 🥘 Cooking
-  * 🎲🎲 Settlers of Catan
+  * Whitewater kayaking, canoeing, and rafting 🛶
+  * Skiing 🚠
+  * Cooking 🥘
+  * Settlers of Catan 🎲🎲
 - 📫 How to reach me: 
   * [Email](mailto:jpcarey4@gmail.com?)
   * [LinkedIn](https://www.linkedin.com/in/jpcareyiv/)
