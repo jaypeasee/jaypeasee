@@ -1,5 +1,5 @@
 ### I'm Jp Carey, 
-#### a frontend software developer currently residing in Jackson, Wyoming.
+#### a frontend software engineering currently residing in Jackson, Wyoming.
 
 - 😄 Pronouns: He/Him/His
 - 🔭 I’m currently in a fully immersive frontend engineering course at The Turing School of Software and Design
