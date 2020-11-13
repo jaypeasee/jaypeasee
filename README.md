@@ -6,8 +6,8 @@
 - 🌱 My studies are focused in `React`, `JavaScript`, `Node JS`, and `SCSS`.
 - 🧳 My Background:
   * conversion rate optimization
-  * digital strategy
   * account management
+  * manual testing/quality assurance
 - ⚡ What I do:
   * 🛶 Whitewater kayaking, canoeing, and rafting
   * 🚠 Skiing
