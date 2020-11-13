@@ -9,7 +9,7 @@
   * 🛶 Whitewater kayaking, canoeing, and rafting
   * 🚠 Skiing
   * 🚵‍♂️ Mountain Biking
-  * 🎲 Settlers of Catan
+  * 🎲🎲 Settlers of Catan
 - 📫 How to reach me: 
   * [Email](mailto:jpcarey4@gmail.com?)
   * [LinkedIn](https://www.linkedin.com/in/jpcareyiv/)
