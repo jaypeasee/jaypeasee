@@ -13,4 +13,3 @@
 - 📫 How to reach me: 
   * [jpcarey4@gmail.com](jpcarey4@gmail.com)
   * [LinkedIn](https://www.linkedin.com/in/jpcareyiv/)
--->
