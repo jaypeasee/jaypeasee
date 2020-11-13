@@ -1,4 +1,4 @@
-### I'm Jp Carey, 
+### Hey There! I'm Jp Carey, 
 #### a frontend software engineering currently residing in Jackson, Wyoming.
 
 - 😄 Pronouns: He/Him/His
