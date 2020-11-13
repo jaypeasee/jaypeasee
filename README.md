@@ -2,7 +2,7 @@
 #### a frontend software engineering currently residing in Jackson, Wyoming.
 
 - 😄 Pronouns: He/Him/His
-- 🔭 I’m currently in a fully immersive frontend engineering course at [The Turing School of Software and Design](https://frontend.turing.io/)
+- 🔭 I’m currently in a fully immersive frontend engineering program at [The Turing School of Software and Design](https://frontend.turing.io/)
 - 🌱 My studies are focused in `React`, `JavaScript`, `Node JS`, and `SCSS`.
 - 🧳 My Background: Prior experience in conversion rate optimization, web analytics, account management and digital strategy.
 - ⚡ What I do:
