@@ -1,16 +1,16 @@
-### Hi there 👋
+### I'm Jp Carey, 
+#### a frontend software developer currently residing in Jackson, Wyoming.
 
-<!--
-**jaypeasee/jaypeasee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him/His
+- 🔭 I’m currently in a fully immersive frontend engineering course at The Turing School of Software and Design
+- 🌱 My studies are focused in `React`, `JavaScript`, `Node JS`, and `SCSS`.
+- 💬 Ask me about specific applications I've made at Turing!
+- 🧳 My Background: Prior experience in conversion rate optimization, web analytics, account management and digital strategy.
+- ⚡ What I do:
+  * 🛶 Whitewater kayaking, canoeing, and rafting
+  * 🚠 Skiing
+  * 🚵‍♂️ Mountain Biking
+- 📫 How to reach me: 
+  * [jpcarey4@gmail.com](jpcarey4@gmail.com)
+  * [LinkedIn](https://www.linkedin.com/in/jpcareyiv/)
 -->
