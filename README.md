@@ -11,5 +11,5 @@
   * 🚠 Skiing
   * 🚵‍♂️ Mountain Biking
 - 📫 How to reach me: 
-  * [gmail](mailto:jpcarey4@gmail.com?subject=[GitHub])
+  * [gmail](mailto:jpcarey4@gmail.com?subject=GitHub Referral)
   * [LinkedIn](https://www.linkedin.com/in/jpcareyiv/)
