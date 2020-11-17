@@ -9,7 +9,7 @@
     + account management 🤝
     + manual testing/quality assurance 🔎
 + **⚡ What I do:**
-    + Whitewater boating, and skiing 🛶🚠
+    + Whitewater boating, and skiing 🛶🚠🌎
     + Cooking 🥘
     + Settlers of Catan 🎲🎲
 + **📫 How to reach me:**
