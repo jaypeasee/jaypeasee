@@ -3,7 +3,7 @@
  
 + **😄 My pronouns:** he/him/his.
 + **🔭 In a fully immersive program at [The Turing School of Software and Design](https://frontend.turing.io/), and poised to graduate in March.** 
-+ **🌱 My studies are focused in `React`, `JavaScript`, `Node JS`, and `SCSS`.**
++ **🌱 My studies are focused in** `React`, `JavaScript`, `Node JS`, and `SCSS`.
 + **🧳 My background:**
     + digital strategy 📈
     + account management 🤝
@@ -15,7 +15,7 @@
 + **📫 How to reach me:**
     + [jpcarey4@gmail.com](mailto:jpcarey4@gmail.com?)
     + [LinkedIn](https://www.linkedin.com/in/jpcareyiv/)
-+ **💬 Ask me about specific applications I've made at Turing! See a few repos pinned below.**
++ **💬 Ask me about** specific applications I've made at Turing! See a few repos pinned below.
 
 <details>
  <summary><h2>My Github Stats:</h2></summary>
