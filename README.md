@@ -20,7 +20,7 @@
 + <b>💬 Ask me about specific applications I've made at Turing! See a few pinned below.</b>
 
 <details>
- <summary><h3>My Github Stats</h3></summary>
+ <summary><h3>My Github Stats:</h3></summary>
  
 ![JP's github stats](https://github-readme-stats.vercel.app/api?username=jaypeasee&show_icons=true&theme=dark&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypeasee&layout=compact&theme=dark)
