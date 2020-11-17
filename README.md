@@ -9,8 +9,8 @@
     + account management 🤝
     + manual testing/quality assurance 🔎
 + **⚡ What I do:**
-    + Whitewater boating, and skiing 🛶🚠🌎
-    + Cooking 🥘
+    + whitewater boating, and skiing 🛶🚠🌎
+    + cooking 🥘
     + Settlers of Catan 🎲🎲
 + **📫 How to reach me:**
     + [jpcarey4@gmail.com](mailto:jpcarey4@gmail.com?)
