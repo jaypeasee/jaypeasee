@@ -2,7 +2,7 @@
 ### a frontend engineer currently residing in Jackson, Wyoming.
 
 <details>
-<summary>More About Me</summary>
+ <summary><b>More About Me</b></summary>
  
 + 😄 Pronouns: He/Him/His
 + 🔭 In a fully immersive program at [The Turing School of Software and Design](https://frontend.turing.io/) and poised to graduate in March.
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-<summary>My Github Stats</summary>
+ <summary><b>My Github Stats</b></summary>
  
 ![JP's github stats](https://github-readme-stats.vercel.app/api?username=jaypeasee&show_icons=true&theme=dark&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypeasee&layout=compact&theme=dark)
