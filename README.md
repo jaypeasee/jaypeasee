@@ -16,7 +16,7 @@
 + **📫 How to reach me:**
     + [jpcarey4@gmail.com](mailto:jpcarey4@gmail.com?)
     + [LinkedIn](https://www.linkedin.com/in/jpcareyiv/)
-+ **💬 Ask me about specific applications I've made at Turing! See a few pinned below.**
++ **💬 Ask me about specific applications I've made at Turing! See a few repos pinned below.**
 
 <details>
  <summary><h3>My Github Stats:</h3></summary>
