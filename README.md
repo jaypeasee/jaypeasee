@@ -1,5 +1,5 @@
 # Hi There! I'm Jp Carey, 
-### a frontend engineer currently residing in Jackson, Wyoming.
+## a frontend engineer currently residing in Jackson, Wyoming.
  
 + **😄 My pronouns: he/him/his.**
 + **🔭 In a fully immersive program at [The Turing School of Software and Design](https://frontend.turing.io/) and poised to graduate in March.** 
@@ -19,7 +19,7 @@
 + **💬 Ask me about specific applications I've made at Turing! See a few repos pinned below.**
 
 <details>
- <summary><h3>My Github Stats:</h3></summary>
+ <summary><h2>My Github Stats:</h2></summary>
  
 ![JP's github stats](https://github-readme-stats.vercel.app/api?username=jaypeasee&show_icons=true&theme=dark&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypeasee&layout=compact&theme=dark)
