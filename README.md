@@ -3,7 +3,7 @@
  
 + **😃 My pronouns:** he/him/his.
 + **🔭 In a fully immersive program at** [The Turing School of Software and Design](https://frontend.turing.io/), and poised to graduate in March. 
-+ **🌱 My studies are focused in** `React`, `JavaScript`, `Node.js`, `Test Driven Development` and `SASS`.
++ **🌱 My studies are focused in** `React`, `JavaScript`, `Node.js`, `TypeScript`, `React Testing Library`, `Jest`, and `SASS/SCSS`.
 + **🧳 My background:**
     + digital strategy 📈
     + account management 🤝
