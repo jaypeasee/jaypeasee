@@ -17,9 +17,7 @@
     + [LinkedIn](https://www.linkedin.com/in/jpcareyiv/)
 + **💬 Ask me about** specific applications I've made at Turing! See a few repos pinned below.
 
-<details>
  <summary><h2>My Github Stats:</h2></summary>
  
 ![JP's github stats](https://github-readme-stats.vercel.app/api?username=jaypeasee&show_icons=true&theme=dark&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypeasee&layout=compact&theme=dark)
-</details>
