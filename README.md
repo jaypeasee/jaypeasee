@@ -11,7 +11,7 @@
 + :office: &nbsp; My background:  digital strategy 📈, account management 🤝, manual testing/quality assurance 🔎.
 + :speech_balloon: &nbsp; Ask me about: specific applications I've made at Turing! See a few repos pinned below.
 
-### Technologies
+## Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,7 +24,7 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
- <summary><h2>My Github Stats:</h2></summary>
+## Github Stats:
  
 ![JP's github stats](https://github-readme-stats.vercel.app/api?username=jaypeasee&show_icons=true&theme=dark&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypeasee&layout=compact&theme=dark)
