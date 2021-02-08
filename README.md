@@ -10,7 +10,7 @@
 + :smile: &nbsp; **Pronouns:** he/him/his.
 + :mortar_board: &nbsp; In a 1500+ hour frontend program at [The Turing School of Software and Design](https://frontend.turing.io/), and graduating in March.
 + :boom: &nbsp; **Most recent project:** [National Parkfinder](https://github.com/jaypeasee/national-parkfinder)
-+ :telescope: &nbsp; **What I want to learn next:** Vue
++ :telescope: &nbsp; **What I want to learn next:** Vue.js
 + :office: &nbsp; **My background:** conversion rate optimization, account management, manual testing/quality assurance :chart_with_upwards_trend: &nbsp; :handshake: &nbsp; :mag_right:
 + :speech_balloon: &nbsp; **Ask me about:** specific applications I've made at Turing! See a few repos pinned below.
  
