@@ -5,7 +5,7 @@
 [![Codewars](https://img.shields.io/badge/-Codewars-b1361e.svg?style=for-the-badge&logo=codewars&colorB=b1361e)](https://www.codewars.com/users/jaypeasee)
 
 + :smile: &nbsp; Pronouns: he/him/his.
-+ :mortar_board: &nbsp; In a fully immersive program at [The Turing School of Software and Design](https://frontend.turing.io/), and graduating in March.
++ :mortar_board: &nbsp; In a 1500+ hour frontend program at [The Turing School of Software and Design](https://frontend.turing.io/), and graduating in March.
 + :boom: &nbsp; Most recent project: [National Parkfinder](https://github.com/jaypeasee/national-parkfinder)
 + :telescope: &nbsp; What I want to learn next: `Vue`
 + :office: &nbsp; My background:  digital strategy 📈, account management 🤝, manual testing/quality assurance 🔎.
