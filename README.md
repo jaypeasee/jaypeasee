@@ -9,7 +9,7 @@
 + :mortar_board:  In a fully immersive program at [The Turing School of Software and Design](https://frontend.turing.io/), and graduating in March.
 + :exclamation:  Most recent project: [National Parkfinder](https://github.com/jaypeasee/national-parkfinder)
 + :telescope:  What I want to learn next: `Vue`
-+ 🧳 My background:  digital strategy 📈 account management 🤝 manual testing/quality assurance 🔎
++ 🧳 My background:  digital strategy 📈, account management 🤝, manual testing/quality assurance 🔎.
 + 💬 Ask me about: specific applications I've made at Turing! See a few repos pinned below.
 
 ### Technologies
