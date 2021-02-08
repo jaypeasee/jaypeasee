@@ -5,13 +5,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpcarey4@gmail.com)
 [![Codewars](https://img.shields.io/badge/-Codewars-b1361e.svg?style=for-the-badge&logo=codewars&colorB=b1361e)](https://www.codewars.com/users/jaypeasee)
 
-+ **😃 Pronouns:** he/him/his.
-+ **:mortar_board: In a fully immersive program at** [The Turing School of Software and Design](https://frontend.turing.io/), and graduating in March.
-+ ** **:exclamation: Most recent project:** [National Parkfinder](https://github.com/jaypeasee/national-parkfinder)
-+ **🧳 My background:**
-    + digital strategy 📈
-    + account management 🤝
-    + manual testing/quality assurance 🔎
++ 😃 Pronouns: he/him/his.
++ :mortar_board: In a fully immersive program at [The Turing School of Software and Design](https://frontend.turing.io/), and graduating in March.
++ :exclamation: Most recent project: [National Parkfinder](https://github.com/jaypeasee/national-parkfinder)
++ :telescope: What I want to learn next: Vue
++ 🧳 My background: digital strategy 📈 account management 🤝 manual testing/quality assurance 🔎
 + **💬 Ask me about** specific applications I've made at Turing! See a few repos pinned below.
 
 ### Technologies
