@@ -45,7 +45,7 @@
 
 <h3>Other Tech:</h3>
 
-`React Hooks` • `Chai` •  `TravisCI` • `Google Analytics`
+`React Hooks` • `Chai` • `Axios` • `TravisCI` • `Google Analytics`
 
 <h2 align="center">Github Stats:</h2>
 
