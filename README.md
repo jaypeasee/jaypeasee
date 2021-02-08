@@ -34,7 +34,7 @@
 
 <h3>Other Tech:</h3>
 
-`React Hooks` • `React Testing Library` • `Mocha` • `Chai` •  `TravisCI` • `Webpack` • `Google Analytics`
+`React Hooks` • `React Testing Library` • `Mocha` • `Chai` •  `TravisCI` • `Webpack` • `git version control` • `Google Analytics`
 
 <h2 align="center">Github Stats:</h2>
 
