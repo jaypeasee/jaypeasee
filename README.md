@@ -8,10 +8,6 @@
     + digital strategy 📈
     + account management 🤝
     + manual testing/quality assurance 🔎
-+ **⚡ What I do:**
-    + whitewater boating, and skiing 🛶🚠🌎
-    + cooking 🥘
-    + Settlers of Catan 🎲🎲
 + **📫 How to reach me:**
     + [jpcarey4@gmail.com](mailto:jpcarey4@gmail.com?)
     + [LinkedIn](https://www.linkedin.com/in/jpcareyiv/)
