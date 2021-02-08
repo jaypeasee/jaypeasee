@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
  <img height="100" alt="brand logo" src="https://user-images.githubusercontent.com/59029768/107289509-63c1a700-6a22-11eb-953a-cae9adc9779f.png">
 </p>
 <h1 align="center">Jp Carey</h1>
