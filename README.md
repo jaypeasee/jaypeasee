@@ -6,11 +6,11 @@
 [![Codewars](https://img.shields.io/badge/-Codewars-b1361e.svg?style=for-the-badge&logo=codewars&colorB=b1361e)](https://www.codewars.com/users/jaypeasee)
 
 + :smile: &nbsp; Pronouns: he/him/his.
-+ :mortar_board: In a fully immersive program at [The Turing School of Software and Design](https://frontend.turing.io/), and graduating in March.
-+ :boom: Most recent project: [National Parkfinder](https://github.com/jaypeasee/national-parkfinder)
-+ :telescope:  What I want to learn next: `Vue`
-+ :office: My background:  digital strategy 📈, account management 🤝, manual testing/quality assurance 🔎.
-+ :speech_balloon: Ask me about: specific applications I've made at Turing! See a few repos pinned below.
++ :mortar_board: &nbsp; In a fully immersive program at [The Turing School of Software and Design](https://frontend.turing.io/), and graduating in March.
++ :boom: &nbsp; Most recent project: [National Parkfinder](https://github.com/jaypeasee/national-parkfinder)
++ :telescope: &nbsp; What I want to learn next: `Vue`
++ :office: &nbsp; My background:  digital strategy 📈, account management 🤝, manual testing/quality assurance 🔎.
++ :speech_balloon: &nbsp; Ask me about: specific applications I've made at Turing! See a few repos pinned below.
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
