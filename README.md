@@ -8,7 +8,7 @@
 + 😃 Pronouns: he/him/his.
 + :mortar_board: In a fully immersive program at [The Turing School of Software and Design](https://frontend.turing.io/), and graduating in March.
 + :exclamation: Most recent project: [National Parkfinder](https://github.com/jaypeasee/national-parkfinder)
-+ :telescope: What I want to learn next: Vue
++ :telescope: What I want to learn next: `Vue`
 + 🧳 My background: digital strategy 📈 account management 🤝 manual testing/quality assurance 🔎
 + **💬 Ask me about** specific applications I've made at Turing! See a few repos pinned below.
 
@@ -23,6 +23,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
  <summary><h2>My Github Stats:</h2></summary>
  
