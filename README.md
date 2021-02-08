@@ -1,5 +1,6 @@
-# Hi There! I'm Jp Carey, 
+Jp Carey, 
 ## a frontend engineer currently residing in Jackson, Wyoming.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcareyiv/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpcarey4@gmail.com)
 [![Codewars](https://img.shields.io/badge/-Codewars-b1361e.svg?style=for-the-badge&logo=codewars&colorB=b1361e)](https://www.codewars.com/users/jaypeasee)
