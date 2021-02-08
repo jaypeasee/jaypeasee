@@ -8,7 +8,7 @@
 + :mortar_board: &nbsp; In a 1500+ hour frontend program at [The Turing School of Software and Design](https://frontend.turing.io/), and graduating in March.
 + :boom: &nbsp; Most recent project: [National Parkfinder](https://github.com/jaypeasee/national-parkfinder)
 + :telescope: &nbsp; What I want to learn next: `Vue`
-+ :office: &nbsp; My background:  digital strategy 📈, account management 🤝, manual testing/quality assurance 🔎.
++ :office: &nbsp; My background:  digital strategy 📈 &nbsp; account management 🤝 &nbsp; manual testing/quality assurance 🔎 &nbsp;.
 + :speech_balloon: &nbsp; Ask me about: specific applications I've made at Turing! See a few repos pinned below.
 
 ## Technologies
