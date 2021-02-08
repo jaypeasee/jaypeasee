@@ -1,8 +1,9 @@
 # Hi There! I'm Jp Carey, 
 ## a frontend engineer currently residing in Jackson, Wyoming.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcareyiv/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpcarey4@gmail.com)
+[![Codewars](https://img.shields.io/badge/-Codewars-b1361e.svg?style=for-the-badge&logo=codewars&colorB=b1361e)](https://www.codewars.com/users/jaypeasee)
 
-<img alt="linkedin" src="https://camo.githubusercontent.com/f579db30b7f5cb9cfc9123f8815dc4e9fc4e07aafb09c46b80e418ce82d90792/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e26636f6c6f72423d314335443939" data-canonical-src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&amp;logo=linkedin&amp;colorB=1C5D99" style="max-width:100%;">
- 
 + **😃 My pronouns:** he/him/his.
 + **🔭 In a fully immersive program at** [The Turing School of Software and Design](https://frontend.turing.io/), and poised to graduate in March. 
 + **🌱 My studies are focused in** `React`, `JavaScript`, `Node.js`, `TypeScript`, `Redux`, `React Testing Library`, `Jest`, and `SASS/SCSS`.
