@@ -34,6 +34,7 @@
  <img alt="Jest" src="https://img.shields.io/badge/jest%20-%23231123.svg?&style=for-the-badge&logo=jest&logoColor=%23E34F26">
  <img alt="React Testing Library" src="https://img.shields.io/badge/-Testing%20Library-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white"> 
  <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white">
+ <img alt="Chai" src="https://img.shields.io/badge/chai-A11404?style=for-the-badge&logo=chai&logoColor=white">
  <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
@@ -46,12 +47,6 @@
  <img alt="Travis CI" src="https://img.shields.io/badge/Travis CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white">
  <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black">
 </p>
-
-<h3>Other Tech:</h3>
-
-`React Hooks` • `Chai` • `Axios` • `TravisCI` • `Google Analytics`
-
-<h2 align="center">Github Stats:</h2>
 
 <p align="center">
  <img alt="GH Stats" src="https://github-readme-stats.vercel.app/api?username=jaypeasee&show_icons=true&theme=dark&hide=stars">
