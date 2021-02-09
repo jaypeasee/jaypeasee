@@ -10,7 +10,7 @@
  <a href="https://www.codewars.com/users/jaypeasee"><img src="https://img.shields.io/badge/-Codewars-b1361e.svg?style=for-the-badge&logo=codewars&colorB=b1361e" alt="gmail"></a>
 </p>
 
-+ :smile: &nbsp; **Pronouns:** he/him/his.
++ :smile: &nbsp; **Pronouns:** he/him/his
 + :mortar_board: &nbsp; In a 1500+ hour frontend program at [The Turing School of Software and Design](https://frontend.turing.io/), and graduating in March.
 + :boom: &nbsp; **Most recent project:** [Hogwarts Sorting Hat Quiz](https://github.com/jaypeasee/sorting-hat-quiz).
 + :telescope: &nbsp; **What I want to learn next:** Vue.js
