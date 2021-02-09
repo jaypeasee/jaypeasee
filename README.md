@@ -52,6 +52,8 @@
  <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black">
 </p>
 
+<h2 align="center">Github Stats:</h2>
+
 <p align="center">
  <img alt="GH Stats" src="https://github-readme-stats.vercel.app/api?username=jaypeasee&show_icons=true&theme=dark&hide=stars">
  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypeasee&layout=compact&theme=dark">
