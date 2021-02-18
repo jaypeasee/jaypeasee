@@ -14,7 +14,8 @@
 + :smile: &nbsp; **Pronouns:** he/him/his
 + :mortar_board: &nbsp; In a 1500+ hour frontend program at [The Turing School of Software and Design](https://frontend.turing.io/), and graduating in March.
 + :boom: &nbsp; **Most recent project:** [Hogwarts Sorting Hat Quiz](https://github.com/jaypeasee/sorting-hat-quiz).
-+ :pencil2: &nbsp; **What I'm learning now:** Cypress
++ :pencil2: &nbsp; **What I'm learning now:** Cypress and 
+
 + :telescope: &nbsp; **What I want to learn next:** Vue or Svelte
 + :office: &nbsp; **My background:** conversion rate optimization, account management, manual testing/quality assurance :chart_with_upwards_trend: &nbsp; :handshake: &nbsp; :mag_right:
 + :speech_balloon: &nbsp; **Ask me about:** Turing's Demo Comp, and [National Parkfinder](https://github.com/jaypeasee/national-parkfinder)!
@@ -34,7 +35,6 @@
  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
  <img alt="React" src="https://img.shields.io/badge/React Hooks-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
- <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </p>
 
