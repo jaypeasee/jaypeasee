@@ -13,6 +13,7 @@
 
 + :smile: &nbsp; **Pronouns:** he/him/his
 + :mortar_board: &nbsp; In a 1500+ hour frontend program at [The Turing School of Software and Design](https://frontend.turing.io/), and graduating in March.
++ :computer: &nbsp; **Current project:** [Pack Smart](https://github.com/Pack-Smart)
 + :boom: &nbsp; **Most recent project:** [Hogwarts Sorting Hat Quiz](https://github.com/jaypeasee/sorting-hat-quiz).
 + :pencil2: &nbsp; **What I'm learning now:** Cypress and Redux
 + :telescope: &nbsp; **What I want to learn next:** Vue or Svelte
