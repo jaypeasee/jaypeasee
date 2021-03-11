@@ -12,7 +12,7 @@
 </p>
 
 + :smile: &nbsp; **Pronouns:** he/him/his
-+ :mortar_board: &nbsp; In a 1500+ hour frontend program at [The Turing School of Software and Design](https://frontend.turing.io/), and graduating in March.
++ :mortar_board: &nbsp; Just graduated from [The Turing School of Software and Design](https://frontend.turing.io/)'s frontend progam!
 + :boom: &nbsp; **Most recent project:** [Hogwarts Sorting Hat Quiz](https://github.com/jaypeasee/sorting-hat-quiz).
 + :computer: &nbsp; **Current project:** [Pack Smart](https://github.com/Pack-Smart).
 + :pencil2: &nbsp; **What I'm learning now:** Cypress & Redux.
