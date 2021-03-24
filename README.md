@@ -13,8 +13,8 @@
 
 + :smile: &nbsp; **Pronouns:** he/him/his
 + :mortar_board: &nbsp; Just graduated from [The Turing School of Software and Design](https://frontend.turing.io/)'s frontend progam!
-+ :boom: &nbsp; **Most recent project:** [Hogwarts Sorting Hat Quiz](https://github.com/jaypeasee/sorting-hat-quiz).
-+ :computer: &nbsp; **Current project:** [Pack Smart](https://github.com/Pack-Smart).
++ :boom: &nbsp; **Most recent project:** [Pack Smart](https://github.com/Pack-Smart).
++ :computer: &nbsp; **Current project:** Freelancing for friends.
 + :pencil2: &nbsp; **What I'm learning now:** Cypress & Redux.
 + :telescope: &nbsp; **What I want to learn next:** Build a backend with Express.js, Knex & Postgres.
 + :office: &nbsp; **My background:** conversion rate optimization, account management, manual testing/quality assurance :chart_with_upwards_trend: &nbsp; :handshake: &nbsp; :mag_right:
