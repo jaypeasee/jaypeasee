@@ -7,7 +7,6 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/jpcareyiv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"></a>
  <a href="mailto:jpcarey4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
- <a href="https://alumni.turing.io/alumni/jp-carey"><img src="https://img.shields.io/badge/Turing-000?style=for-the-badge&logo=turing&logoColor=black" alt="turing portfolio"></a>
  <a href="https://www.codewars.com/users/jaypeasee"><img src="https://img.shields.io/badge/-Codewars-b1361e.svg?style=for-the-badge&logo=codewars&colorB=b1361e" alt="gmail"></a>
 </p>
 
