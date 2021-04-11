@@ -11,11 +11,11 @@
 </p>
 
 + :smile: &nbsp; **Pronouns:** he/him/his
-+ :mortar_board: &nbsp; Just graduated from [The Turing School of Software and Design](https://frontend.turing.io/)'s frontend progam!
-+ :boom: &nbsp; **Most recent project:** [Pack Smart](https://github.com/Pack-Smart).
++ :briefcase: &nbsp; Software Engineer I at Housecall Pro
++ :mortar_board: &nbsp; Graduated from The Turing School of Software and Design's frontend progam in March of 2021!
 + :computer: &nbsp; **Current project:** Freelancing for friends.
-+ :pencil2: &nbsp; **What I'm learning now:** Cypress & Redux.
-+ :telescope: &nbsp; **What I want to learn next:** Build a backend with Express.js, Knex & Postgres.
++ :pencil2: &nbsp; **What I'm learning now:** Redux & useState.
++ :telescope: &nbsp; **What I want to learn next:** Ruby on Rails and relational databases.
 + :office: &nbsp; **My background:** conversion rate optimization, account management, manual testing/quality assurance :chart_with_upwards_trend: &nbsp; :handshake: &nbsp; :mag_right:
 + :speech_balloon: &nbsp; **Ask me about:** Turing's Demo Comp, and [National Parkfinder](https://github.com/jaypeasee/national-parkfinder)!
  
