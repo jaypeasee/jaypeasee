@@ -2,7 +2,7 @@
  <img height="100" alt="brand logo" src="https://user-images.githubusercontent.com/59029768/107289509-63c1a700-6a22-11eb-953a-cae9adc9779f.png">
 </p>
 <h1 align="center">Jp Carey</h1>
-<h2 align="center">Frontend developer currently residing in Jackson, Wyoming</h2>
+<h2 align="center">Fullstack engineer residing in Jackson, Wyoming</h2>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/jpcareyiv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"></a>
