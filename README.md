@@ -15,7 +15,7 @@
 + :mortar_board: &nbsp; **Education:** Graduated from The Turing School of Software and Design's frontend progam in March of 2021.
 + :computer: &nbsp; **Current project:** Freelancing for friends.
 + :office: &nbsp; **My background:** conversion rate optimization, account management, manual testing/quality assurance :chart_with_upwards_trend: &nbsp; :handshake: &nbsp; :mag_right:
-+ :speech_balloon: &nbsp; **Ask me about:** Turing's Demo Comp, and [National Parkfinder](https://github.com/jaypeasee/national-parkfinder)!
++ :speech_balloon: &nbsp; **Ask me about:** Building data visualizations on the Housecall Pro Reporting Squad
  
 
 <h2 align="center">Technologies:</h2>
